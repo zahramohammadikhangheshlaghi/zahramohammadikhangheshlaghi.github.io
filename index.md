@@ -7,6 +7,8 @@ I am interested in the interface of model theory and geometric group theory.
 
 ## Preprint
 * On the model theory of the Farey graph, Zahra Mohammadi Khangheshlaghi, Katrin Tent, [arXiv:2503.02121](https://arxiv.org/pdf/2503.02121)
+* On the model theory of the Free Factor Complex of rank 2, Zahra Mohammadi Khangheshlaghi, Katrin Tent, [arXiv:2603.17084](https://arxiv.org/abs/2603.17084)
+
     
     
 ## Teaching
